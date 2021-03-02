@@ -746,6 +746,11 @@ margin-top:20%;
 
 }
 @media only screen and (max-device-width: 480px) {
+	.container{
+		width:60%;
+		margin-left:10%;
+		
+	}
 	.img{
 		position:static;
 		height:600px;
@@ -754,6 +759,7 @@ margin-top:20%;
 		left:10%;
 			
 	}
+	
 	
 
     }
