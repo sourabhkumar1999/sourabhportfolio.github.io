@@ -750,7 +750,7 @@ margin-top:20%;
 	.container{
 		transform: rotate(0deg);
 		position:static;
-		margin-left:2% !important;
+		margin-left:0% !important;
 		
 		
 	}
