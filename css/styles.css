@@ -507,7 +507,7 @@ position: relative;
   .contentl{
   align-self: center;
    position: absolute;
-    left: 30%;
+    left: 40%;
     padding-bottom:15%
 
   }
@@ -731,11 +731,11 @@ margin-top:20%;
   }
   .contentl{
     text-align: center;
-    top:80%;
+    top:100%;
   }
     .contentr{
       text-align: center;
-      top:90%;
+      top:100%;
     }
 
  }
