@@ -746,19 +746,13 @@ margin-top:20%;
 
 }
 @media only screen and (max-device-width: 480px) {
-	.img{
-		position:static;
-		height:600px;
-	        width:400px;
-		transform: rotate(0deg);
-		left:10%;
-			
-	}
+	
 	.container{
+		position:static;
 		text-align:left;
 		width:60%;
 		margin-left:15% !important;
-		transform: rotate(0deg);
+		transform: rotate(0deg) !important;
 		
 	}
 	
