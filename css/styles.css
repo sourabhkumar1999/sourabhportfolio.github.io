@@ -746,7 +746,7 @@ margin-top:20%;
 
 }
 @media only screen and (max-device-width: 480px) {
-	.container{
+	.img{
 		position:static;
 		height:600px;
 	        width:400px;
