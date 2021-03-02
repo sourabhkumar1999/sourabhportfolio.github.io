@@ -258,7 +258,7 @@ h1{
   top: 1%;
   left:10%;
 }
-.container
+.img
 {
   position: relative;
   width: 480px;
@@ -747,7 +747,7 @@ margin-top:20%;
 }
 @media only screen and (max-device-width: 480px) {
 	
-	.container{
+	.img{
 		position:static;
 		text-align:left;
 		width:60%;
