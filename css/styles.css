@@ -746,13 +746,6 @@ margin-top:20%;
 
 }
 @media only screen and (max-device-width: 480px) {
-	.container{
-		text-align:left;
-		width:60%;
-		margin-left:15% !important;
-		transform: rotate(0deg);
-		
-	}
 	.img{
 		position:static;
 		height:600px;
@@ -761,6 +754,14 @@ margin-top:20%;
 		left:10%;
 			
 	}
+	.container{
+		text-align:left;
+		width:60%;
+		margin-left:15% !important;
+		transform: rotate(0deg);
+		
+	}
+	
 	
 	
 
