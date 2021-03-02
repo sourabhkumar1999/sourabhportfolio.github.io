@@ -745,3 +745,13 @@ margin-top:20%;
   and (-webkit-device-pixel-ratio: 4) {
 
 }
+@media only screen and (max-device-width: 480px) {
+	.container{
+		height:600px;
+	        width:400px;
+		transform: rotate(0deg) skew(0deg) scale(0);
+			
+	}
+	
+
+    }
