@@ -507,7 +507,7 @@ position: relative;
   .contentl{
   align-self: center;
    position: absolute;
-    left: 40%;
+    left: 30%;
     padding-bottom:15%
 
   }
@@ -756,13 +756,5 @@ margin-top:20%;
 	.img{
 		text-align:left;
 	}
-	.contentl{
-    text-align: center;
-	left:35;	
-    top:90%;
-  }
-    .contentr{
-      text-align: center;
-      top:100%;
-    }
+	
     }
