@@ -747,7 +747,7 @@ margin-top:20%;
 }
 @media only screen and (max-device-width: 480px) {
 	.container{
-		float:left;
+		text-align:left;
 		width:60%;
 		margin-left:10% !important;
 		
