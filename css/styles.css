@@ -748,11 +748,11 @@ margin-top:20%;
 @media only screen and (max-device-width: 480px) {
 	
 	.img{
+		transform: rotate(0deg);
 		position:static;
-		text-align:left;
 		width:60%;
 		margin-left:15% !important;
-		transform: rotate(0deg) !important;
+		
 		
 	}
 	
