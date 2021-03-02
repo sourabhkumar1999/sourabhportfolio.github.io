@@ -749,7 +749,8 @@ margin-top:20%;
 	.container{
 		text-align:left;
 		width:60%;
-		margin-left:10% !important;
+		margin-left:15% !important;
+		transform: rotate(0deg);
 		
 	}
 	.img{
