@@ -747,9 +747,10 @@ margin-top:20%;
 }
 @media only screen and (max-device-width: 480px) {
 	.container{
+		position:static;
 		height:600px;
 	        width:400px;
-		transform: rotate(0deg) skew(0deg) scale(0);
+		transform: rotate(0deg);
 		left:20%;
 			
 	}
