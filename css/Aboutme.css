@@ -669,7 +669,7 @@ bottom:0px;
 @media only screen and (max-device-width: 480px) {
 	
 	.container{
-		text-align:left;
+		text-align:right;
 		transform: rotate(0deg);
 		position:static;
 		margin-left:0% !important;
@@ -678,8 +678,22 @@ bottom:0px;
 		text-align:left;
 	}
 	.icon-bar{
-margin-left:85%;
-		
+position:relative;
+bottom:0px;
+
+}
+.icon-bar ul{
+  
+  padding: 0;
+  display: flex;
+  position: fixed;
+  transform: translate(-78%,0%);
+
+}
+.right-bar{
+ list-style: none;
+  margin: 0 15px;
+}
 }
 
 #footer {
