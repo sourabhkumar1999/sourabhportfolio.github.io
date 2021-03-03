@@ -707,7 +707,7 @@ bottom:0px;
 	}
 	.icon-bar{
 position:relative;
-bottom:5px;
+bottom:10px !important;
 
 }
 .icon-bar ul{
@@ -727,10 +727,10 @@ bottom:5px;
   width:480px;
 }
 	body{
-	width:480px;
+	width:480px !important;
 	}
 	.wrapper{
-	width:480px;
+	width:480px !important;
 	}
 
 	
