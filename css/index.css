@@ -716,7 +716,6 @@ bottom:5px;
   display: flex;
   position: fixed;
   transform: translate(-78%,0%);
-
 }
 .right-bar{
  list-style: none;
@@ -725,12 +724,11 @@ bottom:5px;
 #footer {
   
   text-align: center;
- 
   width:480px;
- 
-
 }
-
+	body{
+	width:480px;
+	}
 
 	
     }
