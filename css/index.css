@@ -732,6 +732,26 @@ bottom:10px !important;
 	.wrapper{
 	width:480px !important;
 	}
+	.container:hover img:nth-child(4)
+{
+  transform: translate(160px,-160px);
+  opacity: 1;
+}
+.container:hover img:nth-child(3)
+{
+  transform: translate(0px,0px);
+  opacity: 0;
+}
+.container:hover img:nth-child(2)
+{
+  transform: translate(0px,0px);
+  opacity: 0;
+}
+.container:hover img:nth-child(1)
+{
+  transform: translate(0px,0px);
+  opacity: 0;
+}
 
 	
     }
