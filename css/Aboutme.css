@@ -748,12 +748,12 @@ width:480px;
 }
 	
 .icon-bar {
-  margin-left:80%;
+  margin-left:70% !important;
   
 }
 	 .contentr{
 		 
-    left:40%;
+    left:40% !important;
   }
 	.contentl{
 float:left;		
