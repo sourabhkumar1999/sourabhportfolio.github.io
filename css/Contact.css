@@ -376,7 +376,7 @@ border-radius: 10%;
 
 .icon-bar {
   position: fixed;
-  margin-left:90%;
+  margin-left:75%;
   top: 45%;
   transform: translateY(-20%);
 }
@@ -440,7 +440,7 @@ position: relative;
 @media screen and (max-width:800px)
 {
   .icon-bar{
-    margin-left:80% !important;
+    margin-left:75% !important;
   }
 }
 .btn btn-outline-dark btn-sm Download-button
@@ -766,10 +766,10 @@ margin-top:20%;
 	width:400px !important;
 	}
 	.contact-title{
-		bottom:30% !important;
+		bottom:35% !important;
 	}
 	.icon-bar{
-		left:80% !important;
+		left:70% !important;
 	}
 
 	
