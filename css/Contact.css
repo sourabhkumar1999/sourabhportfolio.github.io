@@ -751,10 +751,16 @@ margin-top:20%;
 	#footer{
 		width:480px;
 	}
-	..img-hover-zoom{
+	.img-hover-zoom{
 		margin-right:0 !important;
-		width:400px;
-                height:400px;
+		width:400px !important;
+                height:400px !important;
+	}
+	input{
+		width:400px !important;
+	}
+	textarea{
+		width:400px !important;
 	}
 
 	
