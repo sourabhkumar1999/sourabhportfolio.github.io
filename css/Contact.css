@@ -752,7 +752,7 @@ margin-top:20%;
 		width:480px;
 	}
 	.img-hover-zoom{
-		margin-right:0 !important;
+		margin-right:10% !important;
 		width:400px !important;
                 height:400px !important;
 	}
@@ -761,6 +761,9 @@ margin-top:20%;
 	}
 	textarea{
 		width:400px !important;
+	}
+	div.map{
+	width:400px !important;
 	}
 
 	
