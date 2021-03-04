@@ -751,6 +751,11 @@ margin-top:20%;
 	#footer{
 		width:480px;
 	}
+	..img-hover-zoom{
+		margin-right:0 !important;
+		width:400px;
+                height:400px;
+	}
 
 	
     }
