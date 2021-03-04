@@ -482,6 +482,9 @@ width:480px;
 margin-left:75% !important; 
 }
 #canvasOne{
+	text-align:left;
 	margin-left:-5% !important;
+	height:400px;
+	width:400px;
 	}
 }
