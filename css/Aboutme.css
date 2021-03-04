@@ -753,10 +753,11 @@ width:480px;
 }
 	 .contentr{
 		 
-    left:40% !important;
+    left:35% !important;
   }
 	.contentl{
-float:left;		
- 
-
+position:absolute;
+margin-left:-20% !important;
+text-align:center;		
+	}
 }
