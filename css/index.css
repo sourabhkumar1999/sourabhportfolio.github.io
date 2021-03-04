@@ -734,35 +734,28 @@ bottom:10px !important;
   width: 100%;
   transition: 0.5s;
 }
+	.img-hover-zoom{
+		height:400px;
+		width:400px;
+	}
+	.telephone{
+		height:400px;
+		width:400px;
+		
+	}
+	iframe{
+		width:480px;
+		height:400px;
+	}
 	
 	
-	.container:hover img:nth-child(4)
-{
+	.contact-form{
+		bottom:15%;
+		
+	}
+		
 	
- transition:none !important;	 
-  opacity:0;
-{
-}
-.container:hover img:nth-child(3)
-{ 
 	
-	transition: none !important; 
-	opacity:1;
-}
-.container:hover img:nth-child(2)
-	opacity:0;
-{
-
- transition: none !important;
-	opacity:0;
-}
-.container:hover img:nth-child(1)
-	opacity:0;
-{
-
-  transition: none !important;
-	opacity:0;
-}
 
 	
     }
