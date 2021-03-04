@@ -753,8 +753,8 @@ margin-top:20%;
 	}
 	.img-hover-zoom{
 		margin-right:10% !important;
-		width:400px !important;
-                height:400px !important;
+		width:380px !important;
+                height:380px !important;
 	}
 	input{
 		width:400px !important;
@@ -762,8 +762,11 @@ margin-top:20%;
 	textarea{
 		width:400px !important;
 	}
-	div.map{
+	.map{
 	width:400px !important;
+	}
+	.contact-title{
+		bottom:20% !important;
 	}
 
 	
