@@ -484,5 +484,6 @@ margin-left:78% !important;
 #canvasOne{
 	text-align:left;
 	margin-left:-10% !important;
+	opacity:0;
 	}
 }
