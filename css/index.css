@@ -726,6 +726,14 @@ bottom:10px !important;
   text-align: center;
   width:480px;
 }
+	.container img
+{
+  left:5%;	
+  align-items: center;
+  position: absolute;
+  width: 100%;
+  transition: 0.5s;
+}
 	
 	
 	.container:hover img:nth-child(4)
