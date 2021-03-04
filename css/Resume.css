@@ -470,3 +470,18 @@ left: 50%;
   .link:hover{
     background-color:#4169e1;
   }
+
+@media only screen and (max-width : 480px)
+{
+#footer
+{
+width:480px;	
+}
+.icon-bar
+ {
+margin-left:72% !important; 
+}
+#canvasOne{
+	margin-left:10% !important;
+	}
+}
