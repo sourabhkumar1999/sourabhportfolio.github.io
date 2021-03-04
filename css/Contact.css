@@ -757,19 +757,19 @@ margin-top:20%;
                 height:380px !important;
 	}
 	input{
-		width:400px !important;
+		width:3000px !important;
 	}
 	textarea{
-		width:400px !important;
+		width:300px !important;
 	}
 	.map{
-	width:380px !important;
+	width:320px !important;
 	}
 	.contact-title{
 		bottom:60% !important;
 	}
 	.icon-bar{
-		left:10% !important;
+		left:-10% !important;
 	}
 
 	
