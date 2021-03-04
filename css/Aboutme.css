@@ -752,9 +752,11 @@ width:480px;
   
 }
 	 .contentr{
-    left:45%;
+		 
+    left:40%;
   }
 	.contentl{
-  left: 50%;
+float:left;		
+ 
 
 }
