@@ -479,13 +479,13 @@ width:480px;
 }
 .icon-bar
  {
-margin-left:78% !important; 
+margin-left:80% !important; 
 }
 #canvasOne{
 	text-align:left;
 	margin-left:-20% !important;
 	height:400px;
 	width:480px;
-	background-color: transparent;
+	
 	}
 }
