@@ -667,20 +667,6 @@ bottom:0px;
 
 
 @media only screen and (max-device-width: 480px) {
-	
-	.container{
-		text-align:right;
-		transform: rotate(0deg);
-		position:static;
-		margin-left:0% !important;
-		}
-	.img{
-		text-align:left;
-	}
-	
-
-
-}
 
 #footer {
   text-align: center;
