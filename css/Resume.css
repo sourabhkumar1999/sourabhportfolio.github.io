@@ -483,6 +483,8 @@ margin-left:78% !important;
 }
 #canvasOne{
 	text-align:left;
-	margin-left:-25% !important;
+	margin-left:-20% !important;
+	height:500px;
+	width:580px;
 	}
 }
