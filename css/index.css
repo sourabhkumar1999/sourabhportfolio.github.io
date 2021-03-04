@@ -727,9 +727,7 @@ bottom:10px !important;
   width:480px;
 }
 	
-	.wrapper{
-	width:480px !important;
-	}
+	
 	.container:hover img:nth-child(4)
 {
   -webkit-transition: none !important;
@@ -737,15 +735,19 @@ bottom:10px !important;
 .container:hover img:nth-child(3)
 { 
 	transition: none !important; 
+	opacity:1;
 }
 .container:hover img:nth-child(2)
+	opacity:0;
 {
- -transition: none !important;	
+ -transition: none !important;
+	opacity:0;
 }
 .container:hover img:nth-child(1)
+	opacity:0;
 {
   transition: none !important;
-	opacity:1;
+	opacity:0;
 }
 
 	
