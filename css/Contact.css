@@ -324,7 +324,7 @@ h1{
 }
 .icon-bar {
   position: fixed;
-  margin-left:90%;
+  margin-left:80%;
   top: 80%;
   transform: translateY(-50%);
 }
