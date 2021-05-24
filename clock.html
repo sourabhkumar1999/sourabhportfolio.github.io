@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Digital Clock</title>
+    <style media="screen">
+      body{
+        background-color:#222;
+      }
+      .clock{
+        position:absolute;
+        color:#fff;
+        top:50%;
+        left:50%;
+        transform:translateX(-50%) translateY(-50%);
+        font-size:65px;
+        latter-spacing:5px;
+        font-family:digital;
+        font-weight:bold;
+      }
+
+      .btn-primary{
+          background-color: #ff6b81;
+          color: white;
+          cursor: pointer;
+            font-size: 1.7rem;
+      }
+      .btn-primary:hover{
+          color: white;
+          background-color: #ff4757;
+      }
+      footer {
+        font-size: 22px;
+        margin-left:44%;
+  align:center;
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+    </style>
+  </head>
+  <body>
+    <div id="digitalclock" class="clock">
+    </div>
+    <div>
+<a href="Project.html" class="btn-primary">Back</a>
+</div>
+    <script type="text/javascript">
+      function showtime(){
+      var date=new Date();
+      var h=date.getHours();
+      var m=date.getMinutes();
+      var s=date.getSeconds();
+      h = (h<10)?"0"+h:h;
+      m = (m<10)?"0"+m:m;
+      s = (s<10)?"0"+s:s;
+      var session="AM";
+      if(h==0)
+      {
+        h=12;
+      }
+      if(h>12)
+      {
+      h=h-12;
+      session="PM";
+      }
+        document.getElementById("digitalclock").innerHTML= h + ":" + m + ":" + s + " " + session;
+      setTimeout(showtime,1000);
+    }
+    showtime();
+    </script>
+    <footer>
+  Made with ❤️.
+</footer>
+  </body>
+</html>
